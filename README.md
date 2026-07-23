@@ -61,3 +61,4 @@ Flutter / Dart · Kotlin · Swift · REST API · Firebase / FCM · NestJS / Node
 - Email: [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
 
 Открыт к коммерческим проектам по разработке и развитию мобильных приложений.
+
