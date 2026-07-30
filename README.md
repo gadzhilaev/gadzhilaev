@@ -1,16 +1,16 @@
-# Гаджилаев Магомедгаджи
+# Магомедгаджи Гаджилаев
 
-**Мобильный разработчик Flutter · iOS & Android**
+**Mobile developer · Flutter · Android · API integration**
 
-Россия, Махачкала · коммерческие проекты с 2023 года
+Махачкала · коммерческие проекты с 2023 года
 
-[Портфолио](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [Email](mailto:info@gadzhilaev.ru) · [Телефон](tel:+79284297976)
+[Портфолио](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [Email](mailto:info@gadzhilaev.ru)
 
 ## О себе
 
-Меня зовут Магомедгаджи — мобильный разработчик с двухлетним коммерческим опытом. Делаю продукты для бизнеса: от MVP до полноценных сервисов с публикацией в App Store и RuStore.
+Меня зовут Магомедгаджи — мобильный разработчик. Коммерческие проекты выполняю с 2023 года. Делаю продукты для бизнеса: от MVP до сервисов с публикацией в App Store, Google Play и RuStore.
 
-Кроссплатформа на Flutter, нативная разработка на Kotlin и Swift, при необходимости — Kotlin Multiplatform для общей логики. Работаю в связке с бэкенд-разработчиком (Python / FastAPI) и дизайнером: интерфейс, API, деплой и релизы в сторы.
+Кроссплатформа на Flutter, нативная разработка на Kotlin и Swift, при необходимости — Kotlin Multiplatform для общей логики. Работаю в связке с backend-разработчиком и дизайнером: интерфейс, API, деплой и релизы в сторы.
 
 Чистая архитектура, интеграции (REST API, Firebase, карты, платежи, push), вёрстка по Figma. На связи, дедлайны соблюдаю.
 
@@ -29,7 +29,7 @@
 
 Расписание, оценки, Wi-Fi, новости, портфолио, стипендия — без лишних звонков.
 
-**Роль:** разработка и публикация мобильного приложения (Flutter, REST API, push).
+**Роль:** разработка Flutter-клиента, интеграция с API, публикация и развитие.
 
 [App Store](https://apps.apple.com/app/id6761117413) · [Google Play](https://play.google.com/store/apps/details?id=ru.dgu.college.dgu_mobile.android) · [RuStore](https://www.rustore.ru/catalog/app/ru.dgu.college.dgu_mobile.android)
 
@@ -37,7 +37,7 @@
 
 Мобильная платформа взаимопомощи для людей с инвалидностью: заявки о помощи, чаты, push-уведомления и регистрация через Госуслуги.
 
-**Роль:** разработка мобильного приложения (Flutter, WebSocket, Firebase, ЕСИА OAuth 2.0).
+**Роль:** разработка мобильного клиента.
 
 [RuStore](https://www.rustore.ru/catalog/app/ru.filantropcl.filantrop)
 
@@ -45,7 +45,7 @@
 
 Официальное приложение магазина обуви BIZON. Публикация в App Store, Google Play и RuStore: каталог, заказ, доставка и оплата.
 
-**Роль:** подготовка и публикация приложения в App Store, Google Play и RuStore.
+**Роль:** только публикация в App Store, Google Play и RuStore.
 
 [App Store](https://apps.apple.com/us/app/фабрика-бизон/id6769309990) · [Google Play](https://play.google.com/store/apps/details?id=com.bizon.fabrikabizon) · [RuStore](https://www.rustore.ru/catalog/app/com.bizon.fabrikabizon) · [Сайт](https://fabrikabizon.ru)
 
@@ -53,7 +53,7 @@
 
 Публикация Hotecam55 в RuStore, Google Play и App Store. Релизы, подпись приложений, модерация и карточки в сторах.
 
-**Роль:** подготовка и публикация приложения в App Store, Google Play и RuStore.
+**Роль:** только публикация в App Store, Google Play и RuStore.
 
 [App Store](https://apps.apple.com/app/id6771701331) · [Google Play](https://play.google.com/store/apps/details?id=com.hotecam55.gpsphotosurvey) · [RuStore](https://www.rustore.ru/catalog/app/com.hotecam55.gpsphotosurvey)
 
@@ -69,11 +69,15 @@ AI-ассистент для бизнеса: умный чат, аналитик
 
 **Роль:** разработка мобильного прототипа.
 
+### [Salmonz](https://github.com/gadzhilaev/salmonz)
+
+Open-source portfolio/demo-проект: мобильное Flutter-приложение и отдельный backend на NestJS, PostgreSQL и Prisma. Реализованы авторизация, каталог, корзина, серверный расчёт заказа, роли пользователя и администратора.
+
 ## Технологии
 
 **Мобильная разработка:** Flutter · Dart · Kotlin · Swift · Kotlin Multiplatform · вёрстка UI по Figma
 
-**Бэкенд и интеграции:** Node.js · Python · FastAPI · REST API · Firebase · карты · платежи · push-уведомления
+**Бэкенд и интеграции:** Node.js · Python · FastAPI · NestJS · REST API · Firebase · карты · платежи · push-уведомления
 
 **Публикация и инфраструктура:** App Store & RuStore · Docker & VPS · SMS & Email рассылки
 
@@ -82,6 +86,5 @@ AI-ассистент для бизнеса: умный чат, аналитик
 - Сайт: [gadzhilaev.ru](https://gadzhilaev.ru)
 - Telegram: [@gadzhilaev](https://t.me/gadzhilaev)
 - Email: [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
-- Телефон: [+7 928 429-79-76](tel:+79284297976)
 
 Открыт к коммерческим проектам по разработке и развитию мобильных приложений.
