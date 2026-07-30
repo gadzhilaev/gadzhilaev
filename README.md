@@ -1,64 +1,87 @@
-# Магомедгаджи Гаджилаев
+# Гаджилаев Магомедгаджи
 
-**Mobile developer · Flutter · iOS & Android**
+**Мобильный разработчик Flutter · iOS & Android**
 
-Разрабатываю мобильные приложения для бизнеса: от интерфейса и интеграции с API до сборок, публикации в магазинах и дальнейшего сопровождения. Коммерческие заказы выполняю с 2023 года.
+Россия, Махачкала · коммерческие проекты с 2023 года
 
-[Посмотреть портфолио](https://gadzhilaev.ru) · [Обсудить проект](https://t.me/mgadzhilaev)
+[Портфолио](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [Email](mailto:info@gadzhilaev.ru) · [Телефон](tel:+79284297976)
+
+## О себе
+
+Меня зовут Магомедгаджи — мобильный разработчик с двухлетним коммерческим опытом. Делаю продукты для бизнеса: от MVP до полноценных сервисов с публикацией в App Store и RuStore.
+
+Кроссплатформа на Flutter, нативная разработка на Kotlin и Swift, при необходимости — Kotlin Multiplatform для общей логики. Работаю в связке с бэкенд-разработчиком (Python / FastAPI) и дизайнером: интерфейс, API, деплой и релизы в сторы.
+
+Чистая архитектура, интеграции (REST API, Firebase, карты, платежи, push), вёрстка по Figma. На связи, дедлайны соблюдаю.
 
 ## Чем могу помочь
 
-- разработка Flutter-приложений для iOS и Android
-- доработка существующих мобильных приложений
-- интеграция REST API, Firebase/FCM, авторизации, карт и платежей
-- подготовка сборок и публикация в App Store, Google Play и RuStore
-- сопровождение приложения после выпуска
-- разработка или интеграция отдельного backend, когда это требуется проекту
+- **Разработка Flutter-приложений** — мобильные клиенты для iOS и Android, адаптивный интерфейс, архитектура и состояние приложения
+- **Интеграция и доработка** — REST API, WebSocket, авторизация, Firebase/FCM, исправление ошибок и развитие существующего приложения
+- **Публикация в магазинах** — App Store, Google Play, RuStore: сборки, подписи, карточки приложения и прохождение модерации
+- **Поддержка продукта** — новые функции, исправления, обновление зависимостей, сопровождение релизов
 
-## Избранные работы
+Работаю с готовым backend или в связке с backend-разработчиком.
 
-### Колледж ДГУ
+## Проекты
 
-Мобильное приложение колледжа для студентов и сотрудников: расписание, оценки, новости и внутренние сервисы.
+### [Колледж ДГУ](https://gadzhilaev.ru/projects/college-dgu)
 
-**Мой вклад:** полная разработка Flutter-клиента, интеграция с существующим API, публикация в App Store, Google Play и RuStore, дальнейшее развитие.
+Расписание, оценки, Wi-Fi, новости, портфолио, стипендия — без лишних звонков.
 
-→ [Кейс на сайте](https://gadzhilaev.ru/projects/college-dgu)
+**Роль:** разработка и публикация мобильного приложения (Flutter, REST API, push).
 
-### Филантроп
+[App Store](https://apps.apple.com/app/id6761117413) · [Google Play](https://play.google.com/store/apps/details?id=ru.dgu.college.dgu_mobile.android) · [RuStore](https://www.rustore.ru/catalog/app/ru.dgu.college.dgu_mobile.android)
 
-Мобильная платформа взаимопомощи.
+### [Филантроп](https://gadzhilaev.ru/projects/filantrop)
 
-**Мой вклад:** разработка Flutter-клиента, интеграции и подготовка приложения к выпуску (в том числе публикация в RuStore).
+Мобильная платформа взаимопомощи для людей с инвалидностью: заявки о помощи, чаты, push-уведомления и регистрация через Госуслуги.
 
-→ [Кейс на сайте](https://gadzhilaev.ru/projects/filantrop)
+**Роль:** разработка мобильного приложения (Flutter, WebSocket, Firebase, ЕСИА OAuth 2.0).
 
-### Salmonz
+[RuStore](https://www.rustore.ru/catalog/app/ru.filantropcl.filantrop)
 
-Открытый portfolio/demo-проект: Flutter-клиент и отдельный backend (NestJS, PostgreSQL, Prisma, JWT, REST API, Docker/MinIO).
+### [Фабрика Бизон](https://gadzhilaev.ru/projects/bizon)
 
-Репозиторий готовится к публикации.
+Официальное приложение магазина обуви BIZON. Публикация в App Store, Google Play и RuStore: каталог, заказ, доставка и оплата.
 
-## Публикация приложений
+**Роль:** подготовка и публикация приложения в App Store, Google Play и RuStore.
 
-Для **BIZON** и **Hotecam55 GPS** выполнял подготовку сборок, подписей, карточек приложений и публикацию в App Store, Google Play и RuStore (без разработки самих приложений).
+[App Store](https://apps.apple.com/us/app/фабрика-бизон/id6769309990) · [Google Play](https://play.google.com/store/apps/details?id=com.bizon.fabrikabizon) · [RuStore](https://www.rustore.ru/catalog/app/com.bizon.fabrikabizon) · [Сайт](https://fabrikabizon.ru)
 
-- [Фабрика BIZON](https://gadzhilaev.ru/projects/bizon)
-- [Hotecam55 GPS](https://gadzhilaev.ru/projects/hotecam55-gps)
+### [Hotecam55 GPS Фото + Метки](https://gadzhilaev.ru/projects/hotecam55-gps)
 
-## Прототипы
+Публикация Hotecam55 в RuStore, Google Play и App Store. Релизы, подпись приложений, модерация и карточки в сторах.
 
-Завершённые мобильные прототипы на Flutter (**Smile AI**, **Galexi AI**). Сейчас не запущены, дальнейшее развитие не планируется.
+**Роль:** подготовка и публикация приложения в App Store, Google Play и RuStore.
+
+[App Store](https://apps.apple.com/app/id6771701331) · [Google Play](https://play.google.com/store/apps/details?id=com.hotecam55.gpsphotosurvey) · [RuStore](https://www.rustore.ru/catalog/app/com.hotecam55.gpsphotosurvey)
+
+### [Smile AI](https://gadzhilaev.ru/projects/smile-ai)
+
+AI-ассистент для бизнеса: умный чат, аналитика трендов, шаблоны, голосовой ввод и поддержка 24/7. Flutter для iOS и Android.
+
+**Роль:** разработка мобильного прототипа.
+
+### [Galexi AI](https://gadzhilaev.ru/projects/galexi-ai)
+
+Мобильный языковой тренажёр с ИИ-репетитором: диалоги, словарь, грамматика, голос и статистика прогресса.
+
+**Роль:** разработка мобильного прототипа.
 
 ## Технологии
 
-Flutter / Dart · Kotlin · Swift · REST API · Firebase / FCM · NestJS / Node.js · PostgreSQL · Docker · GitHub Actions
+**Мобильная разработка:** Flutter · Dart · Kotlin · Swift · Kotlin Multiplatform · вёрстка UI по Figma
+
+**Бэкенд и интеграции:** Node.js · Python · FastAPI · REST API · Firebase · карты · платежи · push-уведомления
+
+**Публикация и инфраструктура:** App Store & RuStore · Docker & VPS · SMS & Email рассылки
 
 ## Контакты
 
 - Сайт: [gadzhilaev.ru](https://gadzhilaev.ru)
-- Telegram: [@mgadzhilaev](https://t.me/mgadzhilaev)
+- Telegram: [@gadzhilaev](https://t.me/gadzhilaev)
 - Email: [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
+- Телефон: [+7 928 429-79-76](tel:+79284297976)
 
 Открыт к коммерческим проектам по разработке и развитию мобильных приложений.
-
