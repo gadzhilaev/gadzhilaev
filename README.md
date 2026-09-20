@@ -1,85 +1,79 @@
 # Магомедгаджи Гаджилаев
 
-**Mobile developer · Flutter · Android · API integration**
+**Flutter / Mobile Developer**
 
-Махачкала · коммерческие проекты с 2023 года
+Махачкала · коммерческие Flutter-заказы с марта 2025 (1,5+ года) · изучение с 2023 · свои проекты с 2024
 
 [Портфолио](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [Email](mailto:info@gadzhilaev.ru)
 
 ## О себе
 
-Меня зовут Магомедгаджи — мобильный разработчик. Коммерческие проекты выполняю с 2023 года. Делаю продукты для бизнеса: от MVP до сервисов с публикацией в App Store, Google Play и RuStore.
+Flutter / Mobile Developer. Делаю и дорабатываю приложения для iOS и Android: REST API, WebSocket, Firebase/FCM, карты и платежи при необходимости, сборки и публикация в App Store, Google Play и RuStore.
 
-Кроссплатформа на Flutter, нативная разработка на Kotlin и Swift, при необходимости — Kotlin Multiplatform для общей логики. Работаю в связке с backend-разработчиком и дизайнером: интерфейс, API, деплой и релизы в сторы.
-
-Чистая архитектура, интеграции (REST API, Firebase, карты, платежи, push), вёрстка по Figma. На связи, дедлайны соблюдаю.
+Работаю с готовым backend или в связке с backend-разработчиком и дизайнером. Позиционирование: Junior+ / early Middle — не Senior.
 
 ## Чем могу помочь
 
-- **Разработка Flutter-приложений** — мобильные клиенты для iOS и Android, адаптивный интерфейс, архитектура и состояние приложения
-- **Интеграция и доработка** — REST API, WebSocket, авторизация, Firebase/FCM, исправление ошибок и развитие существующего приложения
-- **Публикация в магазинах** — App Store, Google Play, RuStore: сборки, подписи, карточки приложения и прохождение модерации
-- **Поддержка продукта** — новые функции, исправления, обновление зависимостей, сопровождение релизов
-
-Работаю с готовым backend или в связке с backend-разработчиком.
+- **Разработка Flutter** — клиенты iOS/Android, UI, архитектура и состояние (Cubit/BLoC, Repository)
+- **Интеграция и доработка** — REST/Dio, WebSocket, auth, Firebase/FCM, фиксы и развитие существующего приложения
+- **Публикация в сторы** — App Store, Google Play, RuStore: подписи, карточки, модерация
+- **Сопровождение** — релизы, обновления зависимостей, новые функции
 
 ## Проекты
 
-### [Колледж ДГУ](https://gadzhilaev.ru/projects/college-dgu)
+### [Колледж ДГУ](https://gadzhilaev.ru/projects/college-dgu) · разработка
 
-Расписание, оценки, Wi-Fi, новости, портфолио, стипендия — без лишних звонков.
+Официальное Flutter-приложение колледжа: расписание, оценки, новости, студенческие сервисы. REST/Dio, push, WebSocket; модернизация модулей на Cubit + Repository; автотесты и CI. Публикация в App Store и RuStore.
 
 **Роль:** разработка Flutter-клиента, интеграция с API, публикация и развитие.
 
-[App Store](https://apps.apple.com/app/id6761117413) · [Google Play](https://play.google.com/store/apps/details?id=ru.dgu.college.dgu_mobile.android) · [RuStore](https://www.rustore.ru/catalog/app/ru.dgu.college.dgu_mobile.android)
+### [Филантроп](https://gadzhilaev.ru/projects/filantrop) · разработка
 
-### [Филантроп](https://gadzhilaev.ru/projects/filantrop)
+Платформа взаимопомощи: заявки, карта, чаты, push, deep links. Flutter-клиент в RuStore; поэтапная модернизация help-модулей (Cubit/Repository).
 
-Мобильная платформа взаимопомощи для людей с инвалидностью: заявки о помощи, чаты, push-уведомления и регистрация через Госуслуги.
+**Роль:** разработка и развитие мобильного клиента.
+
+### [Smile AI](https://gadzhilaev.ru/projects/smile-ai) · свой pre-launch
+
+AI-ассистент для бизнеса: чат, аналитика, шаблоны, поддержка. Flutter-клиент (не опубликован в сторах как production-сервис).
 
 **Роль:** разработка мобильного клиента.
 
-[RuStore](https://www.rustore.ru/catalog/app/ru.filantropcl.filantrop)
+### [Фабрика Бизон](https://gadzhilaev.ru/projects/bizon) · публикация
 
-### [Фабрика Бизон](https://gadzhilaev.ru/projects/bizon)
+Официальное приложение магазина BIZON в App Store, Google Play и RuStore.
 
-Официальное приложение магазина обуви BIZON. Публикация в App Store, Google Play и RuStore: каталог, заказ, доставка и оплата.
+**Роль:** только публикация в сторы (разработку ядра себе не приписываю).
 
-**Роль:** только публикация в App Store, Google Play и RuStore.
+### [БериБеру](https://gadzhilaev.ru/projects/beribery) · публикация
 
-[App Store](https://apps.apple.com/us/app/фабрика-бизон/id6769309990) · [Google Play](https://play.google.com/store/apps/details?id=com.bizon.fabrikabizon) · [RuStore](https://www.rustore.ru/catalog/app/com.bizon.fabrikabizon) · [Сайт](https://fabrikabizon.ru)
+Сервис аренды техники через постаматы — публикация Flutter-приложения в App Store.
 
-### [Hotecam55 GPS Фото + Метки](https://gadzhilaev.ru/projects/hotecam55-gps)
+**Роль:** только публикация в App Store.
 
-Публикация Hotecam55 в RuStore, Google Play и App Store. Релизы, подпись приложений, модерация и карточки в сторах.
+### [Оба-на! Квиз](https://gadzhilaev.ru/projects/obana-quiz) · публикация
 
-**Роль:** только публикация в App Store, Google Play и RuStore.
+Приложение записи на офлайн-квизы — публикация в App Store.
 
-[App Store](https://apps.apple.com/app/id6771701331) · [Google Play](https://play.google.com/store/apps/details?id=com.hotecam55.gpsphotosurvey) · [RuStore](https://www.rustore.ru/catalog/app/com.hotecam55.gpsphotosurvey)
+**Роль:** только публикация в App Store.
 
-### [Smile AI](https://gadzhilaev.ru/projects/smile-ai)
+### [Hotecam55 GPS](https://gadzhilaev.ru/projects/hotecam55-gps) · публикация
 
-AI-ассистент для бизнеса: умный чат, аналитика трендов, шаблоны, голосовой ввод и поддержка 24/7. Flutter для iOS и Android.
+GPS-фото + метки — релизы в App Store, Google Play и RuStore.
 
-**Роль:** разработка мобильного прототипа.
+**Роль:** только публикация в сторы.
 
-### [Galexi AI](https://gadzhilaev.ru/projects/galexi-ai)
+### [Salmonz](https://github.com/gadzhilaev/salmonz) · portfolio / demo
 
-Мобильный языковой тренажёр с ИИ-репетитором: диалоги, словарь, грамматика, голос и статистика прогресса.
-
-**Роль:** разработка мобильного прототипа.
-
-### [Salmonz](https://github.com/gadzhilaev/salmonz)
-
-Open-source portfolio/demo-проект: мобильное Flutter-приложение и отдельный backend на NestJS, PostgreSQL и Prisma. Реализованы авторизация, каталог, корзина, серверный расчёт заказа, роли пользователя и администратора.
+Open-source demo: Flutter-клиент + NestJS, PostgreSQL, Prisma (auth, каталог, заказы, админка). Не production-продукт.
 
 ## Технологии
 
-**Мобильная разработка:** Flutter · Dart · Kotlin · Swift · Kotlin Multiplatform · вёрстка UI по Figma
+**Mobile:** Flutter · Dart · Cubit/BLoC · Dio · go_router · Firebase/FCM · Method Channels · Kotlin / Swift (интеграции)
 
-**Бэкенд и интеграции:** Node.js · Python · FastAPI · NestJS · REST API · Firebase · карты · платежи · push-уведомления
+**Backend / infra (по задаче):** NestJS · FastAPI · PostgreSQL · Prisma · Docker · REST / WebSocket
 
-**Публикация и инфраструктура:** App Store & RuStore · Docker & VPS · SMS & Email рассылки
+**Сторы:** App Store Connect · Google Play Console · RuStore · GitHub Actions
 
 ## Контакты
 
@@ -87,4 +81,4 @@ Open-source portfolio/demo-проект: мобильное Flutter-прилож
 - Telegram: [@gadzhilaev](https://t.me/gadzhilaev)
 - Email: [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
 
-Открыт к коммерческим проектам по разработке и развитию мобильных приложений.
+Открыт к удалённым Flutter / Mobile вакансиям и коммерческим заказам.
