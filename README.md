@@ -33,9 +33,9 @@ Flutter / Mobile Developer. Делаю и дорабатываю приложе�
 
 **Роль:** разработка и развитие мобильного клиента.
 
-### [Smile AI](https://gadzhilaev.ru/projects/smile-ai) · свой pre-launch
+### [Smile AI](https://gadzhilaev.ru/projects/smile-ai) · свой проект
 
-AI-ассистент для бизнеса: чат, аналитика, шаблоны, поддержка. Flutter-клиент (не опубликован в сторах как production-сервис).
+AI-ассистент для бизнеса: чат, аналитика, шаблоны, поддержка. Flutter-клиент; в сторах пока не опубликован.
 
 **Роль:** разработка мобильного клиента.
 
@@ -62,10 +62,6 @@ AI-ассистент для бизнеса: чат, аналитика, шаб�
 GPS-фото + метки — релизы в App Store, Google Play и RuStore.
 
 **Роль:** только публикация в сторы.
-
-### [Salmonz](https://github.com/gadzhilaev/salmonz) · portfolio / demo
-
-Open-source demo: Flutter-клиент + NestJS, PostgreSQL, Prisma (auth, каталог, заказы, админка). Не production-продукт.
 
 ## Технологии
 
