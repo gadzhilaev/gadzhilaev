@@ -63,6 +63,24 @@ GPS-фото + метки — релизы в App Store, Google Play и RuStore.
 
 **Роль:** только публикация в сторы.
 
+### [LanCam Viewer](https://gadzhilaev.ru/projects/lancam-viewer) · публикация
+
+Просмотр IP-камер ONVIF/RTSP — релизы в App Store, Google Play и RuStore.
+
+**Роль:** только публикация в сторы.
+
+### [Т Лайт](https://gadzhilaev.ru/projects/t-light) · публикация
+
+Мессенджер Т Лайт — релизы в App Store, Google Play и RuStore.
+
+**Роль:** только публикация в сторы.
+
+### [T-lite](https://gadzhilaev.ru/projects/t-lite) · публикация
+
+TDLib-клиент T-lite — релизы в App Store, Google Play и RuStore.
+
+**Роль:** только публикация в сторы.
+
 ## Технологии
 
 **Mobile:** Flutter · Dart · Cubit/BLoC · Dio · go_router · Firebase/FCM · Method Channels · Kotlin / Swift (интеграции)
