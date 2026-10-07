@@ -1,98 +1,73 @@
 # Магомедгаджи Гаджилаев
 
-**Flutter / Mobile Developer**
+**Flutter / Mobile Developer** · Махачкала · open to remote
 
-Махачкала · коммерческие Flutter-заказы с марта 2025 (1,5+ года) · изучение с 2023 · свои проекты с 2024
+Коммерческие Flutter-заказы с марта 2025 · изучение с 2023 · свои проекты с 2024  
+Junior+ / early Middle — без приписок Senior
 
-[Портфолио](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [Email](mailto:info@gadzhilaev.ru)
+[gadzhilaev.ru](https://gadzhilaev.ru) · [Telegram](https://t.me/gadzhilaev) · [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
 
-## О себе
+---
 
-Flutter / Mobile Developer. Делаю и дорабатываю приложения для iOS и Android: REST API, WebSocket, Firebase/FCM, карты и платежи при необходимости, сборки и публикация в App Store, Google Play и RuStore.
+## Чем занимаюсь
 
-Работаю с готовым backend или в связке с backend-разработчиком и дизайнером. Позиционирование: Junior+ / early Middle — не Senior.
+Делаю и развиваю Flutter-приложения для iOS и Android: UI, состояние, REST/Dio, WebSocket, Firebase/FCM, релизы в App Store / Google Play / RuStore.
 
-## Чем могу помочь
+Работаю с готовым backend или в связке с backend и дизайном. На витрине честно разделяю **разработку** и **только публикацию**.
 
-- **Разработка Flutter** — клиенты iOS/Android, UI, архитектура и состояние (Cubit/BLoC, Repository)
-- **Интеграция и доработка** — REST/Dio, WebSocket, auth, Firebase/FCM, фиксы и развитие существующего приложения
-- **Публикация в сторы** — App Store, Google Play, RuStore: подписи, карточки, модерация
-- **Сопровождение** — релизы, обновления зависимостей, новые функции
+---
 
-## Проекты
+## Избранные кейсы · разработка
 
-### [Колледж ДГУ](https://gadzhilaev.ru/projects/college-dgu) · разработка
+| Проект | Что сделал | Стек | Где смотреть |
+| --- | --- | --- | --- |
+| **[Колледж ДГУ](https://gadzhilaev.ru/projects/college-dgu)** | Flutter-клиент колледжа: расписание, оценки, новости, сервисы. Модернизация модулей на Cubit + Repository, тесты и CI. App Store + RuStore | Flutter · Dio · Cubit · FCM · WebSocket | [кейс](https://gadzhilaev.ru/projects/college-dgu) |
+| **[Филантроп](https://gadzhilaev.ru/projects/filantrop)** | Клиент взаимопомощи: заявки, карта, чаты, push, deep links. Развитие help-модулей | Flutter · Cubit · Repository · FCM | [кейс](https://gadzhilaev.ru/projects/filantrop) |
+| **[Фабрика Бизон](https://gadzhilaev.ru/projects/bizon)** | Развитие магазина: каталог, комплекты, inbox/push, UX, релизы в 3 стора. Backend — у заказчика | Flutter · Provider · Dio · FCM | [кейс](https://gadzhilaev.ru/projects/bizon) |
+| **[Smile AI](https://gadzhilaev.ru/projects/smile-ai)** | Свой AI-ассистент: чат, шаблоны, аналитика. Flutter-клиент (в сторах пока нет) | Flutter · WebSocket · FCM | [кейс](https://gadzhilaev.ru/projects/smile-ai) |
 
-Официальное Flutter-приложение колледжа: расписание, оценки, новости, студенческие сервисы. REST/Dio, push, WebSocket; модернизация модулей на Cubit + Repository; автотесты и CI. Публикация в App Store и RuStore.
+Полный разбор — на [gadzhilaev.ru](https://gadzhilaev.ru). Исходники коммерческих приложений чаще private; смотрите кейсы и стор-ссылки на сайте.
 
-**Роль:** разработка Flutter-клиента, интеграция с API, публикация и развитие.
+---
 
-### [Филантроп](https://gadzhilaev.ru/projects/filantrop) · разработка
+## Также · публикация в сторы
 
-Платформа взаимопомощи: заявки, карта, чаты, push, deep links. Flutter-клиент в RuStore; поэтапная модернизация help-модулей (Cubit/Repository).
+Подпись, карточки и модерация готовых приложений:  
+[БериБеру](https://gadzhilaev.ru/projects/beribery) · [Оба-на! Квиз](https://gadzhilaev.ru/projects/obana-quiz) · [Hotecam55](https://gadzhilaev.ru/projects/hotecam55-gps) · [LanCam](https://gadzhilaev.ru/projects/lancam-viewer) · [Т Лайт](https://gadzhilaev.ru/projects/t-light) · [T-lite](https://gadzhilaev.ru/projects/t-lite)
 
-**Роль:** разработка и развитие мобильного клиента.
+Роль там — **только релиз**, не разработка ядра.
 
-### [Smile AI](https://gadzhilaev.ru/projects/smile-ai) · свой проект
+---
 
-AI-ассистент для бизнеса: чат, аналитика, шаблоны, поддержка. Flutter-клиент; в сторах пока не опубликован.
+## Стек
 
-**Роль:** разработка мобильного клиента.
+```text
+Mobile     Flutter · Dart · Cubit/BLoC · Provider · Dio · go_router
+           Firebase / FCM · Method Channels · Kotlin / Swift (точечно)
+Backend*   NestJS · FastAPI · PostgreSQL · Prisma · Docker · REST / WS
+Stores     App Store Connect · Google Play · RuStore · GitHub Actions
+```
 
-### [Фабрика Бизон](https://gadzhilaev.ru/projects/bizon) · разработка
+\*backend — по задаче или в связке, не основной профиль.
 
-Официальное приложение магазина BIZON: каталог, комплекты, уведомления, мессенджер. Flutter-клиент; релизы в App Store, Google Play и RuStore.
+---
 
-**Роль:** развитие Flutter-клиента и публикация обновлений (backend магазина — на стороне заказчика).
+## Открытый код здесь
 
-### [БериБеру](https://gadzhilaev.ru/projects/beribery) · публикация
+| Репозиторий | О чём |
+| --- | --- |
+| [salmonz](https://github.com/gadzhilaev/salmonz) | Flutter + NestJS + Prisma — open-source demo магазина доставки |
+| [finzoo](https://github.com/gadzhilaev/finzoo) | Flutter-прототип финграмотности для детей (конкурсный Finzo) |
+| [smile_ai_tg](https://github.com/gadzhilaev/smile_ai_tg) | Telegram support-бот: push, WebSocket, история для мобильного клиента |
+| [soma](https://github.com/gadzhilaev/soma) | Flutter-приложение медитации (pet / learning) |
+| [military-holidays-tv-calendar](https://github.com/gadzhilaev/military-holidays-tv-calendar) | Android TV-календарь на Kotlin + Compose |
 
-Сервис аренды техники через постаматы — публикация Flutter-приложения в App Store.
-
-**Роль:** только публикация в App Store.
-
-### [Оба-на! Квиз](https://gadzhilaev.ru/projects/obana-quiz) · публикация
-
-Приложение записи на офлайн-квизы — публикация в App Store.
-
-**Роль:** только публикация в App Store.
-
-### [Hotecam55 GPS](https://gadzhilaev.ru/projects/hotecam55-gps) · публикация
-
-GPS-фото + метки — релизы в App Store, Google Play и RuStore.
-
-**Роль:** только публикация в сторы.
-
-### [LanCam Viewer](https://gadzhilaev.ru/projects/lancam-viewer) · публикация
-
-Просмотр IP-камер ONVIF/RTSP — релизы в App Store, Google Play и RuStore.
-
-**Роль:** только публикация в сторы.
-
-### [Т Лайт](https://gadzhilaev.ru/projects/t-light) · публикация
-
-Мессенджер Т Лайт — релизы в App Store, Google Play и RuStore.
-
-**Роль:** только публикация в сторы.
-
-### [T-lite](https://gadzhilaev.ru/projects/t-lite) · публикация
-
-TDLib-клиент T-lite — релизы в App Store, Google Play и RuStore.
-
-**Роль:** только публикация в сторы.
-
-## Технологии
-
-**Mobile:** Flutter · Dart · Cubit/BLoC · Dio · go_router · Firebase/FCM · Method Channels · Kotlin / Swift (интеграции)
-
-**Backend / infra (по задаче):** NestJS · FastAPI · PostgreSQL · Prisma · Docker · REST / WebSocket
-
-**Сторы:** App Store Connect · Google Play Console · RuStore · GitHub Actions
+---
 
 ## Контакты
 
-- Сайт: [gadzhilaev.ru](https://gadzhilaev.ru)
-- Telegram: [@gadzhilaev](https://t.me/gadzhilaev)
-- Email: [info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)
+- Сайт: **[gadzhilaev.ru](https://gadzhilaev.ru)**
+- Telegram: **[@gadzhilaev](https://t.me/gadzhilaev)**
+- Email: **[info@gadzhilaev.ru](mailto:info@gadzhilaev.ru)**
 
 Открыт к удалённым Flutter / Mobile вакансиям и коммерческим заказам.
